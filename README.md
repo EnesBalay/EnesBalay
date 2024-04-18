@@ -2,7 +2,7 @@
 
 A devoted software engineer who constantly keeps himself updated by saying that the only constant is change.🆙<br/>
 
-# 🥷 Tools/Frameworks/Languages I use(d):
+# 🥷 What do I know:
 
 ![HTML](https://img.shields.io/badge/html-%23323330.svg?style=for-the-badge&logo=html5&color=282828)
 ![CSS](https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css3&logoColor=2965f1&color=282828&)
