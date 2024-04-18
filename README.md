@@ -15,6 +15,7 @@ A devoted software engineer who constantly keeps himself updated by saying that 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&color=282828&)
 ![ASP.NET](https://img.shields.io/badge/asp.net-%23323330.svg?style=for-the-badge&logo=dotnet&color=282828)
 ![MongoDB](https://img.shields.io/badge/mongodb-%23323330.svg?style=for-the-badge&logo=mongodb&color=282828)
+![SQL](https://img.shields.io/badge/sql-%23323330.svg?style=for-the-badge&logo=mssql&color=282828)
 ![Git VCS](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&color=282828)
 
 # 🐾 GitHub Stats:
