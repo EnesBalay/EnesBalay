@@ -17,6 +17,9 @@ A devoted software engineer who constantly keeps himself updated by saying that 
 ![MongoDB](https://img.shields.io/badge/mongodb-%23323330.svg?style=for-the-badge&logo=mongodb&color=282828)
 ![SQL](https://img.shields.io/badge/sql-%23323330.svg?style=for-the-badge&logo=mssql&color=282828)
 ![Git VCS](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&color=282828)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&color=282828) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&color=282828) 
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&color=282828)
 
 # 🐾 GitHub Stats:
 
