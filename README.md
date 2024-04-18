@@ -6,7 +6,7 @@ A devoted software engineer who constantly keeps himself updated by saying that 
 
 ![HTML](https://img.shields.io/badge/html-%23323330.svg?style=for-the-badge&logo=html5&color=282828)
 ![CSS](https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css3&logoColor=2965f1&color=282828&)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=282828&)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&color=282828&)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&color=282828)
 ![Typescript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&color=282828)
 ![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&color=282828)
